@@ -1,0 +1,14 @@
+{
+  "name": "hitl",
+  "version": "0.0.1",
+  "description": "human in the loop research project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Rick Barraza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
